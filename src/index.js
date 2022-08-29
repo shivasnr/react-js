@@ -3,4 +3,5 @@
 // import './index.css';
 // import './hello-world';
 // import './jsx';
-import './markup';
+//import './markup';
+import './custom-components';
