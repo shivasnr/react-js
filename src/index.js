@@ -4,4 +4,5 @@
 // import './hello-world';
 // import './jsx';
 //import './markup';
-import './custom-components';
+//import './custom-components';
+import './parent-child-components';
