@@ -6,4 +6,5 @@
 //import './markup';
 //import './custom-components';
 //import './parent-child-components';
-import './styles-with-classes';
+//import './styles-with-classes';
+import './App'
